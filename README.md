@@ -4,7 +4,6 @@
 
 ---
 
-![KakaoTalk_Photo_2022-08-31-23-58-24](https://user-images.githubusercontent.com/69445946/187820181-fbbd0ca9-088a-451a-8a2c-ccb2f4b0524e.jpeg)
 
 # Profile
 
