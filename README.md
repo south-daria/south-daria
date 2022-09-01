@@ -2,7 +2,6 @@
 
 노력한다고 항상 성공할 순 없지만, 성공한 사람은 노력했다는 걸 명심하자.
 
----
 
 
 # Profile
@@ -25,7 +24,6 @@ Notion [link](https://www.notion.so/Daria-s-Log-4986402eed5b4deca2a82cd473f27db5
 
 # Introduce
 
----
 
 - 안녕하세요 3년차 개발자 남정윤입니다 🙂
 - 재밌는 것에서 빠져나오지 못하는 편이며, 현재는 개발이 가장 재밌습니다.
@@ -36,7 +34,7 @@ Notion [link](https://www.notion.so/Daria-s-Log-4986402eed5b4deca2a82cd473f27db5
 
 # Skill Set
 
----
+
 
 Social Work
 
