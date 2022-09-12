@@ -18,8 +18,6 @@ Email [daria020821@gmail.com](mailto:daria020821@gmail.com)
 
 Blog [link](https://velog.io/@jynam821)
 
-Github [link](https://github.com/south-daria)
-
 Notion [link](https://www.notion.so/Daria-s-Log-4986402eed5b4deca2a82cd473f27db5)
 
 # Introduce
@@ -33,8 +31,6 @@ Notion [link](https://www.notion.so/Daria-s-Log-4986402eed5b4deca2a82cd473f27db5
 - 귀찮은 것을 싫어하는 편이라, 더 효율적일 수 있는 방법에 대해 고민합니다.
 
 # Skill Set
-
-
 
 Social Work
 
